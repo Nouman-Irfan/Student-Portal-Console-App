@@ -62,7 +62,7 @@ git clone https://github.com/Nouman-Irfan/Student-Portal-Console-App.git
 
 ## ⚙️ Prerequisites
 
-Before running the project, ensure you have:
+Before running the project, ensure you have: 
 
 - ✅ A C++ Compiler (GCC, MinGW, or Visual Studio)  
 - ✅ Basic understanding of C++  
@@ -82,7 +82,7 @@ Before running the project, ensure you have:
 
 ## ⚠️ Disclaimer
 
-This project is developed strictly for **educational purposes**.  
+This project is developed strictly for **educational purposes**. 
 Passwords are stored in **plain text**, making it unsuitable for production-level security systems.
 
 ---
