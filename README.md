@@ -6,15 +6,6 @@ A professionally designed **console-based Student Portal System** developed in *
 
 ---
 
-## 📥 GitHub Repository
-
-Clone the project to your local machine:
-
-```bash
-git clone https://github.com/Nouman-Irfan/Student-Portal-Console-App.git
-
----
-
 ## ✨ Key Features
 
 🔐 **Authentication System**  
