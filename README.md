@@ -99,6 +99,6 @@ Passwords are stored in **plain text**, making it unsuitable for production-leve
 
 ## 👨‍💻 Developed By
 
-**Muhammad Nouman**
-**BSCS STUDENT**
+**MUHAMMAD NOUMAN **
+**(BSCS STUDENT)**
 
